@@ -1,0 +1,31 @@
+#DuermeComoSiChambeara {
+    max-width: 100%;
+    overflow: hidden;
+  }
+
+  
+#DuermeComoSiChambeara {
+    width: 100%;
+    height: auto;
+  }
+  
+  body {
+    background-color: #F2EBE7;
+    color: #4D346F;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #D4A5C5;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #4D346F;
+}
+
+h1 {
+    color: #4D346F;
+    font-size: 32px;
+    margin: 0;
+}
